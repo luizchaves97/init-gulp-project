@@ -9,8 +9,7 @@
     "start": "gulp",
     "build": "gulp build",
     "css": "gulp only-css",
-    "js": "gulp only-js",
-    "sprite": "node sprite"
+    "js": "gulp only-js"
   },
   "repository": {
     "type": "git",

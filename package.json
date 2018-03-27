@@ -4,7 +4,6 @@
   "versionCss": "1.0.0",
   "versionJs": "1.0.0",
   "description": "Initialize a gulp project",
-  "main": "index.js",
   "scripts": {
     "start": "gulp",
     "build": "gulp build",
